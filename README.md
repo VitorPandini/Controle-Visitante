@@ -1,10 +1,8 @@
 # Home
 
-O repositório `controle-visitantes` é destinado a armazenar o código referente ao projeto desenvolvido durante o curso [Django framework na prática](https://bit.ly/3qNnh9N) disponível na plataforma Udemy.
+O repositório `controle-visitantes` é destinado a armazenar o código referente ao projeto desenvolvido 
 
-O objetivo do curso é explorar as principais funcionalidades do framework Django por meio da construção de uma dashboard para registro e administração de visitantes de um determinado condomínio. Vamos desenvolver um projeto real e aprender ao longo de seu desenvolvimento o que são as ferramentas que o framework nos dá e como utilizá-las.
 
-Saiba mais sobre o projeto abaixo ou, se quiser, acessar o link do curso [clicando aqui](https://bit.ly/3qNnh9N).
 
 ## Conhecendo o processo
 
@@ -14,11 +12,7 @@ Hoje o condomínio conta com um processo manual e por meio de cadernos que são 
 
 O projeto consiste em uma ou mais páginas web em que seja possível registrar visitantes e visualizar suas informações. Além disso, precisamos disponibilizar algumas funcionalidades que seguem os fluxos executados pelo porteiro assim que um visitante chega à portaria e quando o mesmo deixa as dependências do condomínio.
 
-Na imagem abaixo é possível visualizar o fluxo executado pelos porteiros e suas etapas:
 
-![Imagem com etapas do processo de registro de visitantes, onde temos quatro etapas: chegada na portaria, aguardando autoriza&#xE7;&#xE3;o, realizando visita e visita finalizada](docs/images/processo-registro.png)
-
-Você também pode acessar a proposta de desenvolvimento [clicando aqui](docs/proposta-de-desenvolvimento.md)
 
 ## Principais funcionalidades
 
@@ -82,18 +76,4 @@ O projeto [controle-visitantes](https://github.com/djangoframeworknapratica/cont
 * [Django widget tweaks](https://github.com/jazzband/django-widget-tweaks)
 * [Start Bootstrap - SB Admin 2](https://github.com/BlackrockDigital/startbootstrap-sb-admin-2)
 
-## Requisitos desejáveis
 
-Para um bom aproveitamento de todo material e atividades aqui propostas, é desejável que você tenha os seguintes conhecimentos:
-
-* Conhecimentos básicos da linguagem Python
-  * Funções
-  * Noções de Programação Orientada a Objetos
-    * Classes
-    * Instância de classe
-    * Atributos
-    * Métodos
-* Conhecimentos básicos em HTML, CSS e JS
-  * Noções de [Bootstrap](https://getbootstrap.com/)
-* Sistema operacional baseado em Unix
-* Conhecimentos básicos em terminal
